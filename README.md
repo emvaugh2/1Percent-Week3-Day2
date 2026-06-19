@@ -1,6 +1,6 @@
 ## AWS Cloud Engineer
 
-**Greetings! We'll be going over the tasks for Week 2 - Days 1 & 2 of the Cloud Engineering program. Lets get started!**
+**Greetings! We'll be going over the tasks for Week 3 - Days 2 of the Cloud Engineering program. Lets get started!**
 
 ## Week 3 - Day 2: Action Steps
 * IAM Users
